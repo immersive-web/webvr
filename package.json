@@ -1,6 +1,6 @@
 {
   "name": "webvr",
-  "description": "WebVR Community Group & Specification",
+  "description": "WebVR Specification",
   "version": "1.1.0",
   "devDependencies": {
     "browser-sync": "^2.18.8",

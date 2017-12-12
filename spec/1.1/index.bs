@@ -3,7 +3,7 @@ Shortname: webvr
 Title: WebVR
 Group: immersiveweb
 Status: w3c/ED
-ED: https://immersive-web.github.io/legacy-webvr/
+ED: https://immersive-web.github.io/webvr/
 Repository: immersive-web/webvr
 Level: 1
 Mailing List Archives: https://lists.w3.org/Archives/Public/public-webvr/

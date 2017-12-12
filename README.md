@@ -2,11 +2,11 @@
 
 WebVR provides support for accessing virtual reality (VR) devices, including sensors and head-mounted displays on the Web.
 
-This repository hosts the legacy [WebVR 1.1 Specification](https://immersive-web.github.io/legacy-webvr/). This specification and it's functionality are in the process of being replaced by the [WebXR Device API](https://immersive-web.github.io/webxr/), but the WebVR API remains available in multiple browsers while that specification is being finalized.
+This repository hosts the legacy [WebVR 1.1 Specification](https://immersive-web.github.io/webvr/). This specification and it's functionality are in the process of being replaced by the [WebXR Device API](https://immersive-web.github.io/webxr/), but the WebVR API remains available in multiple browsers while that specification is being finalized.
 
 ## Specifications
 
-* [WebVR API Specification](https://immersive-web.github.io/legacy-webvr/): main specification for JavaScript API for accessing VR displays.
+* [WebVR API Specification](https://immersive-web.github.io/webvr/): legacy specification for JavaScript API for accessing VR displays.
 * [Gamepad API Specification](https://w3c.github.io/gamepad/), introduces a low-level JS API interface for accessing gamepad devices.
 * [Gamepad Extensions API Specification](https://w3c.github.io/gamepad/extensions.html): extends the Gamepad API to enable access to more advanced device capabilities.
 
@@ -15,14 +15,14 @@ This repository hosts the legacy [WebVR 1.1 Specification](https://immersive-web
 
 * [WebVR Community Group](https://www.w3.org/community/webvr/)
 * [WebVR Specification](https://w3c.github.io/webvr/)
-* [WebVR Charter](https://w3c.github.io/webvr/charter/)
+* [WebVR Charter](https://immersive-web.github.io/webxr/charter/)
 
 
 ## Communication
 
 * [W3C Community Group: `webvr`](http://www.w3.org/community/webvr/)
   * [`public-webvr` mailing list](http://lists.w3.org/Archives/Public/public-webvr/)
-* [GitHub issues list: `webvr`](https://github.com/immersive-web/legacy-webvr/issues)
+* [GitHub issues list: `webvr`](https://github.com/immersive-web/webvr/issues)
 * [WebVR Slack chat](https://webvr-slack.herokuapp.com/)
 
 
