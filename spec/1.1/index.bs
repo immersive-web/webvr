@@ -36,7 +36,9 @@ urlPrefix: https://www.w3.org/TR/html5/
 </pre>
 
 
-<b>Development of the WebVR API has halted in favor of being replaced the <a href="https://immersive-web.github.io/webxr/">WebXR Device API</a>. Several browsers will continue to support this version of the API in the meantime.</b>
+<b style='color: #440000'>The WebVR API was fully replaced by the <a href="https://immersive-web.github.io/webxr/">WebXR Device API</a>, which initially shipped in browsers
+in 2019 and is now available on many XR devices. This document is preserved out of historial interest, but the APIs described will not be implemented
+in any major browser.</b>
 
 # Introduction # {#intro}
 
